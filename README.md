@@ -1,9 +1,4 @@
 <h3 align="left">Hello, my name is M. Khomsin Ariseno. I am a Backend Developer from Indonesia and I love to learn new things to improve my skills!</h3>
-  <div>
-    <a href="www.linkedin.com/in/muhamadkhomsinariseno">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white&color=black" alt="LinkedIn Badge"/>
-    </a>
-  </div>
 <h3 align="left">:hammer_and_wrench: Languages and Tools:</h3>
 <div align="left">
   <ul>
