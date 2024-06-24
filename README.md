@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Khomsin</h1>
-<h3 align="center">A Backend Developer from Indonesia and I love to learn new things to improve my skills!</h3>
+<h1 align="left">Hi 👋, I'm Khomsin</h1>
+<h3 align="left">A Backend Developer from Indonesia and I love to learn new things to improve my skills!</h3>
 
 - 🌱 I’m currently learning **Golang and Java Springboot to develop REST API**
 
